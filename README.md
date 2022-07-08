@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xnaffets
 - 👀 I’m interested in helping great engineers find their next challenge
-- 🌱 I’m currently learning C/ basic algorithms through Harvard's CS50 course
-- 💞️ I’m looking to collaborate and expand my technical knowledge 
+- 🧠 I’m currently learning C/ basic algorithms through Harvard's CS50 course
+- 🤝 I’m looking to collaborate and expand my technical knowledge 
 - 📫 How to reach me: linkedin.com/in/steffanaguilar
 
 <!---
